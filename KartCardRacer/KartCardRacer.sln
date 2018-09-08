@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartCardRacer", "Assembly-CSharp-firstpass.csproj", "{F73B9F80-2239-A4C8-C96A-34D5AF15E984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartCardRacer", "Assembly-CSharp-Editor-firstpass.csproj", "{D3851D1F-DE97-C624-6920-C5AE621CE7E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F73B9F80-2239-A4C8-C96A-34D5AF15E984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73B9F80-2239-A4C8-C96A-34D5AF15E984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73B9F80-2239-A4C8-C96A-34D5AF15E984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73B9F80-2239-A4C8-C96A-34D5AF15E984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3851D1F-DE97-C624-6920-C5AE621CE7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3851D1F-DE97-C624-6920-C5AE621CE7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3851D1F-DE97-C624-6920-C5AE621CE7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3851D1F-DE97-C624-6920-C5AE621CE7E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
